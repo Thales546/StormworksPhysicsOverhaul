@@ -1,2 +1,2 @@
-# StormworksPhysicsOverhaul
-Documentation for Stormworks Physics Overhaul Mod
+# Stormworks Physics Overhaul
+See Wiki for documentation.
