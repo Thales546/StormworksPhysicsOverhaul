@@ -1,2 +1,2 @@
 # Stormworks Physics Overhaul
-See Wiki for documentation.
+Go to Wiki for documentation and Issues for reporting bugs or suggestions.
